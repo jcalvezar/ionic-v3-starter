@@ -1,1 +1,3 @@
-# ionic-v3-starter
+# Ionic v3 Starter Project
+with Login, SideMenu and Tabs
+
